@@ -5,12 +5,12 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-header h1 {
+h1 {
     font-size: 50px;
     color: black;
 }
 
-nav {
+ul li {
     list-style-type: none;
     display: flex !important;
     justify-content: center;
@@ -18,7 +18,7 @@ nav {
     flex-direction: row;
 }
 
-nav {
+ul li {
     padding-right: 20px;
 }
 
@@ -49,7 +49,7 @@ p {
  
 .pic-one {
     display: block;
-    background-image: url("https://cdn.dev.glasspress.io/health-street.net/state-background-check/arizona-background-checks-image-state-background-check-featured-image.jpg");
+    background-image: url("https://user-images.githubusercontent.com/24613646/88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png");
     width: 600px;
     height: 450px;
     background-size: cover;
